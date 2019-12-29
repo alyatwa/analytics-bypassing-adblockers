@@ -3,4 +3,4 @@
 from = "/proxy/*"
 to = ":splat"
 status = 200
-headers = {Access-Control-Allow-Origin = "https://analytics-bypassing-adblockers.netlify.com"}
+headers = {Access-Control-Allow-Origin = "https://elegant-benz-28d755.netlify.com"}
